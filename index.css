@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    background: #436591;
+    box-shadow: 0px -6px 24px #436591;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.texts {
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    list-style: none;
+    gap: 30px;
+    margin-top: 10px;
+}
+
+.number {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.gmail {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-left: 24px;
+}
+
+.carousel-inner {
+    height: 400px;
+    border: 1px solid #E4E9EF;
+    border-radius: 15px;
+}
+
+.position_text {
+    position: absolute;
+    display: flex;
+    top: 0px;
+}
+
+.btn_text {
+    padding: 6px 50px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: right;
+    color: #FFFFFF;
+    border: none;
+    background: #2FA56C;
+    border-radius: 10px;
+}
+
+.h_1 {
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.p {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+.right_image {
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+.left_text {
+    padding-left: 78px;
+    padding-top: 50px;
+}
+
+.carousel-control-prev {
+    border: 2px solid red;
+    width: 40px;
+    height: 100px;
+    margin-left: -50px;
+    margin-top: 150px;
+    background: #2FA56C;
+}
+
+.carousel-control-next {
+    border: 2px solid red;
+    width: 40px;
+    height: 100px;
+    margin-right: -50px;
+    margin-top: 150px;
+    background: #2FA56C;
+}
+
+.cart_box {
+    padding: 18px;
+    background: #FFFFFF;
+    border: 1px solid #E4E9EF;
+    border-radius: 5px;
+}
+
+.tt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.h3 {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #1F2630;
+}
+
+.text_all {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+}
+
+.connect {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #7A8698;
+}
+
+.speed {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #7A8698;
+}
+
+.free {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: right;
+    color: #1F2630;
+}
+
+.maxspeed {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: right;
+    color: #1F2630;
+}
+
+.button_buy {
+    padding: 6px 20px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    background: #2FA56C;
+    border-radius: 10px;
+}
+
+.sum_num {
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: right;
+    color: #1F2630;
+}
+
+.money {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: right;
+    color: #7A8698;
+    margin-top: -20px;
+}
+
+.top_color {
+    background: #FCBD14;
+    border-radius: 5px 5px 0px 0px;
+    height: 10px;
+    width: 100%;
+}
+
+.padding_box {
+    padding: 10px;
+}
+
+section {
+    margin-top: 60px;
+}
+
+.top_colorr {
+    background: #2389CA;
+    border-radius: 5px 5px 0px 0px;
+    height: 10px;
+    width: 100%;
+}
+
+.top_colorrr{
+    background: #ED6E44;
+    border-radius: 5px 5px 0px 0px;
+    height: 10px;
+    width: 100%;
+}
