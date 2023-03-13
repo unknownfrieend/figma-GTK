@@ -239,9 +239,564 @@ section {
     width: 100%;
 }
 
-.top_colorrr{
+.top_colorrr {
     background: #ED6E44;
     border-radius: 5px 5px 0px 0px;
     height: 10px;
     width: 100%;
+}
+
+.s1 {
+    margin-top: 50px;
+}
+
+.pt {
+    margin-left: 50px;
+    padding: 30px 83px;
+    background: #FF6E3C;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    -webkit-transform: skewX(-20deg);
+    -webkit-border-radius: 20px;
+}
+
+.pr {
+    padding-top: 18px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #1F2630;
+    margin-left: 30px;
+}
+
+
+.pcc {
+    height: 152px;
+    background: #FFC50B;
+    transform: skewX(-20deg);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.s2 {
+    margin-top: 75px;
+    margin-left: 30px;
+}
+
+.hh {
+    margin-top: 20px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    color: #1F2630;
+}
+
+.px {
+    margin-top: 16px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+}
+
+.btntext {
+    margin-top: 30px;
+    padding: 10px 50px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #1F2630;
+    border: 2px solid darkgreen;
+    border-radius: 10px;
+}
+
+.s3 {
+    margin-top: 100px;
+}
+
+.gl {
+    width: 460px;
+    height: 310px;
+    background: linear-gradient(98.07deg, #ED6E44 -5.24%, #FCBD14 85.53%, #FFFFFF 126.15%), #F6AE96;
+    box-shadow: 0px 20px 30px -15px rgba(241, 131, 56, 0.6);
+    border-radius: 15px;
+}
+
+.hg {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.po {
+    padding-top: 40px;
+    margin-left: 20px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.io {
+    width: 177px;
+    height: 255px;
+    margin-left: 280px;
+    margin-top: -200px;
+}
+
+.gll {
+    width: 460px;
+    height: 310px;
+    margin-left: 50px;
+    background: linear-gradient(120.27deg, #2FA56C -2.27%, #2389CA 104.54%), #FFFFFF;
+    box-shadow: 0px 20px 30px -15px rgba(40, 148, 168, 0.7);
+    border-radius: 15px;
+}
+
+.hgg {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.poo {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.ioo {
+    width: 177px;
+    height: 255px;
+    margin-left: 280px;
+    margin-top: -200px;
+}
+
+.btt {
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 5px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #1F2630;
+    border: 2px solid #2FA56C;
+    border-radius: 10px;
+    padding: 10px 50px;
+}
+
+.bttt {
+    background: #FFFFFF;
+    border-radius: 0px 0px 15px 5px;
+    margin-top: 20px;
+    margin-left: 80px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #1F2630;
+    border: 2px solid #2FA56C;
+    border-radius: 10px;
+    padding: 10px 50px;
+}
+
+.s4 {
+    margin-top: 90px;
+}
+
+.hjj {
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    color: #1F2630;
+}
+
+.inn {
+    background: transparent;
+    padding: 32px 0 32px 0;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #7DBCE4;
+}
+
+.box {
+    display: flex;
+}
+
+.inm {
+    padding: 32px 0 32px 0;
+    background: transparent;
+    border: none;
+    width: 160px;
+    outline: none;
+    border-bottom: 1px solid #7DBCE4;
+}
+
+.inmm {
+    padding: 32px 0 32px 0;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #7DBCE4;
+    width: 100%;
+    margin-left: 40px;
+    outline: none;
+}
+
+.ip {
+    padding: 32px 0 32px 0;
+    border: none;
+    border-bottom: 1px solid #7DBCE4;
+    outline: none;
+    width: 300px;
+}
+
+.vv {
+    padding: 32px 0 32px 0;
+    border: none;
+    border-bottom: 1px solid #7DBCE4;
+    outline: none;
+    width: 100px;
+}
+
+.vvv {
+    padding: 32px 0 32px 0;
+    border: none;
+    border-bottom: 1px solid #7DBCE4;
+    outline: none;
+    width: 100px;
+    margin-left: 40px;
+}
+
+.m {
+    margin-top: 40px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+}
+
+.l {
+    background: #F69472;
+}
+
+.k {
+    margin-top: -30px;
+    margin-left: 20px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2630;
+}
+
+.fix {
+    display: flex;
+    gap: 55px;
+    margin-top: 20px;
+}
+
+.mn {
+    margin-top: 50px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    background: #2FA56C;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.fg {
+    display: flex;
+    margin-top: 20px;
+}
+
+.kk {
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #1F2630;
+}
+
+.s5 {
+    margin-top: 80px;
+}
+
+.boxx {
+    background: url(./img/b1.png);
+    margin-left: 80px;
+    backdrop-filter: blur(1px);
+    border-radius: 5px;
+    background-repeat: no-repeat;
+}
+
+.vc {
+    padding-top: 15px;
+    margin-left: 15px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.vcc {
+    margin-left: 15px;
+    margin-top: 26px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.btn1 {
+    padding-bottom: 25px;
+    padding: 5px 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: right;
+    color: #FFFFFF;
+    border: none;
+    background: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+}
+
+.boxx1 {
+    background: url(./img/b2.png);
+    margin-left: 80px;
+    backdrop-filter: blur(1px);
+    border-radius: 5px;
+    background-repeat: no-repeat;
+}
+
+.bn {
+    padding-top: 13px;
+    padding-left: 15px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.bnn {
+    padding-top: 15px;
+    padding-left: 16px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.bnnn {
+    margin-top: 30px;
+    margin-left: 15px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+.boxx2 {
+    background: url(./img/b3.png);
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    backdrop-filter: blur(1px);
+    border-radius: 5px;
+}
+
+.nb {
+    padding-top: 15px;
+    padding-left: 16px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.nbb {
+    margin-top: 16px;
+    margin-left: 15px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.boxx3 {
+    background: url(./img/b4.png );
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    backdrop-filter: blur(1px);
+    border-radius: 5px;
+}
+
+.nm {
+    padding-top: 14px;
+    padding-left: 15px;
+    font-family: 'Stapel Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.nmm {
+    padding-top: 34px;
+    padding-left: 14px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.lk {
+    margin-top: 75px;
+    margin-left: 160px;
+}
+
+.hzx {
+    margin-top: 20px;
+    margin-left: 160px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.l1 {
+    margin-top: 45px;
+    margin-left: 50px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.l2 {
+    margin-top: 5px;
+    margin-left: 50px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.l3 {
+    margin-left: 50px;
+    margin-top: 15px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.l4 {
+    margin-top: 20px;
+    margin-left: 15px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.l5 {
+    margin-left: 50px;
+    margin-top: 15px;
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+footer {
+    background: #262061;
+}
+
+.dd {
+    padding-right: 100px;
+}
+
+.aa {
+    display: flex;
+}
+
+.ds{
+    margin-top: 225px;
+    margin-bottom: 30px;
+}
+
+.ii{
+    display: flex;
+    gap: 10px;
+}
+
+.as {
+    font-family: 'Stapel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    list-style: none;
 }
